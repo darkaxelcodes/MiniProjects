@@ -1,1 +1,1 @@
-Mini projects in Python and Blockchain
+Mini projects.
